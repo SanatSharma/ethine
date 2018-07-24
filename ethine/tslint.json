@@ -1,0 +1,13 @@
+{
+    "rules": {
+        "quotemark": [
+            true,
+            "double",
+            "jsx-double"
+        ],
+        "semicolon": [
+            true,
+            "always"
+        ]
+    }
+}
