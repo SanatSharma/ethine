@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "swarm-js": "^0.1.37"
+  }
+}
