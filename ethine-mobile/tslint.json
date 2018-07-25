@@ -1,0 +1,15 @@
+{
+    "rules": {
+        "quotemark": [
+            true,
+            "double",
+            "jsx-double"
+        ],
+        "semicolon": [
+            true,
+            "always"
+        ],
+        "ordered-imports": true,
+        "no-default-export": false
+    }
+}
